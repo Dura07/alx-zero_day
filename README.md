@@ -1,2 +1,2 @@
 My first readme
-this is an updated line on git hub
+this is an updated line  from git hub
